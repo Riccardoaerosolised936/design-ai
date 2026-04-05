@@ -93,7 +93,6 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Epic Games**](design-md/epicgames/DESIGN.md) | Game store. Dark theme, blue (#0074e4), cinematic imagery |
 | [**PlayStation**](design-md/playstation/DESIGN.md) | Console gaming. Blue (#003791) accent, premium gaming |
 | [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
-| **Nintendo** | Gaming company. Red (#E60012), playful, family-friendly |
 | [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
 ### Developer Tools & Platforms (4)
