@@ -52,64 +52,64 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 
 | Company | Description |
 |---------|-------------|
-| [**X (Twitter)**](x/) | Microblogging platform. Dark mode dominant, blue accent, minimalist |
-| [**TikTok**](tiktok/) | Short video platform. Vibrant cyan/pink gradient, neon accents on dark |
-| [**Reddit**](reddit/) | Community forums. Orange-red (#FF4500) accent, card-based layout |
-| [**Discord**](discord/) | Community chat platform. Blurple (#5865F2) accent, gaming aesthetic |
-| [**LinkedIn**](linkedin/) | Professional network. Corporate blue (#0A66C2), structured layouts |
-| [**Snapchat**](snapchat/) | Messaging app. Yellow (#FFFC00) branding, playful UI |
-| [**Threads**](threads/) | Text-based social. Clean black/white, Instagram-adjacent design |
-| [**Mastodon**](mastodon/) | Decentralized social. Purple (#6364FF) accent, open-source aesthetic |
+| [**X (Twitter)**](design-md/x/DESIGN.md) | Microblogging platform. Dark mode dominant, blue accent, minimalist |
+| [**TikTok**](design-md/tiktok/DESIGN.md) | Short video platform. Vibrant cyan/pink gradient, neon accents on dark |
+| [**Reddit**](design-md/reddit/DESIGN.md) | Community forums. Orange-red (#FF4500) accent, card-based layout |
+| [**Discord**](design-md/discord/DESIGN.md) | Community chat platform. Blurple (#5865F2) accent, gaming aesthetic |
+| [**LinkedIn**](design-md/linkedin/DESIGN.md) | Professional network. Corporate blue (#0A66C2), structured layouts |
+| [**Snapchat**](design-md/snapchat/DESIGN.md) | Messaging app. Yellow (#FFFC00) branding, playful UI |
+| [**Threads**](design-md/threads/DESIGN.md) | Text-based social. Clean black/white, Instagram-adjacent design |
+| [**Mastodon**](design-md/mastodon/DESIGN.md) | Decentralized social. Purple (#6364FF) accent, open-source aesthetic |
 
 ### E-commerce & Retail (6)
 
 | Company | Description |
 |---------|-------------|
-| [**Amazon**](amazon/) | Everything store. Orange (#FF9900) accent, dense product layouts |
-| [**Shopify**](shopify/) | E-commerce platform. Green (#008060) accent, Polaris design system |
-| [**Etsy**](etsy/) | Handmade marketplace. Orange-coral (#F56400), artisan aesthetic |
-| [**eBay**](ebay/) | Auction marketplace. Blue (#3665F3), multicolor logo |
-| [**Target**](target/) | Retail chain. Red (#CC0000) bullseye branding, clean shopping UI |
-| [**Walmart**](walmart/) | Retail giant. Blue (#0071DC) and yellow (#FFC220), utility-focused |
+| [**Amazon**](design-md/amazon/DESIGN.md) | Everything store. Orange (#FF9900) accent, dense product layouts |
+| [**Shopify**](design-md/shopify/DESIGN.md) | E-commerce platform. Green (#008060) accent, Polaris design system |
+| [**Etsy**](design-md/etsy/DESIGN.md) | Handmade marketplace. Orange-coral (#F56400), artisan aesthetic |
+| [**eBay**](design-md/ebay/DESIGN.md) | Auction marketplace. Blue (#3665F3), multicolor logo |
+| [**Target**](design-md/target/DESIGN.md) | Retail chain. Red (#CC0000) bullseye branding, clean shopping UI |
+| [**Walmart**](design-md/walmart/DESIGN.md) | Retail giant. Blue (#0071DC) and yellow (#FFC220), utility-focused |
 
 ### Travel & Hospitality (1)
 
 | Company | Description |
 |---------|-------------|
-| [**Booking.com**](booking/) | Hotel reservations. Deep blue (#003580), yellow CTAs, trust-focused |
+| [**Booking.com**](design-md/booking/DESIGN.md) | Hotel reservations. Deep blue (#003580), yellow CTAs, trust-focused |
 
 ### Food & Delivery (2)
 
 | Company | Description |
 |---------|-------------|
-| [**DoorDash**](doordash/) | Food delivery. Red (#FF3008) accent, restaurant-focused |
-| [**Starbucks**](starbucks/) | Coffee chain. Green (#00704A) siren, warm inviting UI |
+| [**DoorDash**](design-md/doordash/DESIGN.md) | Food delivery. Red (#FF3008) accent, restaurant-focused |
+| [**Starbucks**](design-md/starbucks/DESIGN.md) | Coffee chain. Green (#00704A) siren, warm inviting UI |
 
 ### Gaming (6)
 
 | Company | Description |
 |---------|-------------|
-| [**Steam**](steam/) | Gaming platform. Dark blue (#1b2838), cyan accent (#66c0f4) |
-| [**Epic Games**](epicgames/) | Game store. Dark theme, blue (#0074e4), cinematic imagery |
-| [**PlayStation**](playstation/) | Console gaming. Blue (#003791) accent, premium gaming |
-| [**Xbox**](xbox/) | Console gaming. Green (#107C10) accent, Fluent Design |
-| [**Nintendo**](nintendo/) | Gaming company. Red (#E60012), playful, family-friendly |
-| [**Twitch**](twitch/) | Game streaming. Purple (#9146FF), live content focus |
+| [**Steam**](design-md/steam/DESIGN.md) | Gaming platform. Dark blue (#1b2838), cyan accent (#66c0f4) |
+| [**Epic Games**](design-md/epicgames/DESIGN.md) | Game store. Dark theme, blue (#0074e4), cinematic imagery |
+| [**PlayStation**](design-md/playstation/DESIGN.md) | Console gaming. Blue (#003791) accent, premium gaming |
+| [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
+| **Nintendo** | Gaming company. Red (#E60012), playful, family-friendly |
+| [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
 ### Developer Tools & Platforms (4)
 
 | Company | Description |
 |---------|-------------|
-| [**GitHub**](github/) | Code hosting. Primer design system, octicon icons, developer-first |
-| [**Vercel**](vercel/) | Deployment platform. Black-white precision, Geist font |
-| [**Supabase**](supabase/) | Firebase alternative. Emerald green (#3ECF8E), code-first |
-| [**OpenAI**](openai/) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
+| [**GitHub**](design-md/github/DESIGN.md) | Code hosting. Primer design system, octicon icons, developer-first |
+| [**Vercel**](design-md/vercel/DESIGN.md) | Deployment platform. Black-white precision, Geist font |
+| [**Supabase**](design-md/supabase/DESIGN.md) | Firebase alternative. Emerald green (#3ECF8E), code-first |
+| [**OpenAI**](design-md/openai/DESIGN.md) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
 
 ### AI & Machine Learning (1)
 
 | Company | Description |
 |---------|-------------|
-| [**Anthropic**](anthropic/) | AI safety company. Warm terracotta (#DA7756), editorial layout |
+| [**Anthropic**](design-md/anthropic/DESIGN.md) | AI safety company. Warm terracotta (#DA7756), editorial layout |
 
 ---
 
