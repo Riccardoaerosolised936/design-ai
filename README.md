@@ -4,7 +4,7 @@
 
 Drop one into your project and let AI coding agents build matching UI.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-29-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-31-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ----
@@ -72,10 +72,11 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Target**](design-md/target/DESIGN.md) | Retail chain. Red (#CC0000) bullseye branding, clean shopping UI |
 | [**Walmart**](design-md/walmart/DESIGN.md) | Retail giant. Blue (#0071DC) and yellow (#FFC220), utility-focused |
 
-### Travel & Hospitality (1)
+### Travel & Hospitality (2)
 
 | Company | Description |
 |---------|-------------|
+| [**Airbnb**](design-md/airbnb/DESIGN.md) | Travel marketplace. Warm editorial neutrals, elevated search chrome, rausch coral |
 | [**Booking.com**](design-md/booking/DESIGN.md) | Hotel reservations. Deep blue (#003580), yellow CTAs, trust-focused |
 
 ### Food & Delivery (2)
@@ -85,7 +86,7 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**DoorDash**](design-md/doordash/DESIGN.md) | Food delivery. Red (#FF3008) accent, restaurant-focused |
 | [**Starbucks**](design-md/starbucks/DESIGN.md) | Coffee chain. Green (#00704A) siren, warm inviting UI |
 
-### Gaming (6)
+### Gaming (5)
 
 | Company | Description |
 |---------|-------------|
@@ -95,7 +96,7 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
 | [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
-### Developer Tools & Platforms (6)
+### Developer Tools & Platforms (7)
 
 | Company | Description |
 |---------|-------------|
@@ -103,6 +104,7 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Notion**](design-md/notion/DESIGN.md) | Workspace platform. Warm editorial neutrals, document-first UI, modular blocks |
 | [**Vercel**](design-md/vercel/DESIGN.md) | Deployment platform. Black-white precision, Geist font |
 | [**Stripe**](design-md/stripe/DESIGN.md) | Financial infrastructure. Electric violet brand, developer-first payments UI |
+| [**Spotify**](design-md/spotify/DESIGN.md) | Streaming platform. Dark-first UI, Spotify green accent, immersive media rails |
 | [**Supabase**](design-md/supabase/DESIGN.md) | Firebase alternative. Emerald green (#3ECF8E), code-first |
 | [**OpenAI**](design-md/openai/DESIGN.md) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
 
