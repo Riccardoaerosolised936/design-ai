@@ -4,7 +4,7 @@
 
 Drop one into your project and let AI coding agents build matching UI.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-27-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-29-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ----
@@ -95,12 +95,14 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
 | [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
-### Developer Tools & Platforms (4)
+### Developer Tools & Platforms (6)
 
 | Company | Description |
 |---------|-------------|
 | [**GitHub**](design-md/github/DESIGN.md) | Code hosting. Primer design system, octicon icons, developer-first |
+| [**Notion**](design-md/notion/DESIGN.md) | Workspace platform. Warm editorial neutrals, document-first UI, modular blocks |
 | [**Vercel**](design-md/vercel/DESIGN.md) | Deployment platform. Black-white precision, Geist font |
+| [**Stripe**](design-md/stripe/DESIGN.md) | Financial infrastructure. Electric violet brand, developer-first payments UI |
 | [**Supabase**](design-md/supabase/DESIGN.md) | Firebase alternative. Emerald green (#3ECF8E), code-first |
 | [**OpenAI**](design-md/openai/DESIGN.md) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
 
