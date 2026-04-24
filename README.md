@@ -1,143 +1,239 @@
 # Design AI Systems
 
-**Curated collection of DESIGN.md files capturing design systems from popular websites.**
+**DESIGN.md examples for AI coding agents, AI design tools, and website-inspired UI generation.**
 
-Drop one into your project and let AI coding agents build matching UI.
+This repository is a curated library of `DESIGN.md` files extracted from real public websites so AI agents can generate UI that matches a known visual style, design system, and interaction language.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-35-10b981?style=classic)
+If you are looking for:
+- `DESIGN.md examples`
+- `design system prompts for AI`
+- `AI coding agent UI prompts`
+- `website design system markdown files`
+- `Stitch DESIGN.md examples`
+
+this repo is built for exactly that workflow.
+
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-45-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-----
+---
 
-## What is DESIGN.md?
+## What This Repository Is
 
-[DESIGN.md](https://stitch.withgoogle.com/docs/design-md/overview/) is a plain-text design system document that AI agents read to generate consistent UI. It's just a markdown file - no Figma exports, no JSON schemas, no special tooling.
+`Design AI Systems` is a searchable collection of reusable `DESIGN.md` files for popular websites and product brands including Apple, Stripe, Figma, Slack, Netflix, Uber, PayPal, Zoom, Airbnb, GitHub, Shopify, Discord, TikTok, and more.
+
+Each file is written so an AI model can understand:
+- visual theme and atmosphere
+- colors and semantic roles
+- typography and spacing rules
+- component patterns
+- responsive behavior
+- prompt-ready style guidance
+
+The goal is simple: **drop a `DESIGN.md` into your project and let an AI agent build UI that feels much closer to the target design system.**
+
+---
+
+## What Is `DESIGN.md`?
+
+[`DESIGN.md`](https://stitch.withgoogle.com/docs/design-md/overview/) is a plain-text design system document that AI agents can read to generate consistent UI. It is lightweight, portable, versionable, and easy to edit.
 
 | File | Who reads it | What it defines |
 |------|-------------|-----------------|
-| `AGENTS.md` | Coding agents | How to build the project |
-| `DESIGN.md` | Design agents | How the project should look and feel |
+| `AGENTS.md` | Coding agents | How the agent should work in the repo |
+| `DESIGN.md` | Design-capable agents | How the interface should look and feel |
+
+Unlike design tokens locked inside design tools, a `DESIGN.md` file is:
+- human-readable
+- AI-readable
+- Git-friendly
+- easy to customize
+- simple to reuse across projects
 
 ---
 
-## What's Inside Each DESIGN.md
+## Why People Use This Repo
 
-Every file follows the Stitch DESIGN.md format with extended sections:
+- **Speed up AI UI generation** by giving the model a concrete visual system instead of vague adjectives.
+- **Clone the feel of popular websites** without manually writing a design brief from scratch.
+- **Keep output consistent** across colors, typography, spacing, and components.
+- **Bootstrap product exploration** with a known brand-like design language.
+- **Study public design systems** in a structured markdown format.
+
+---
+
+## What's Inside Each `DESIGN.md`
+
+Every file follows a consistent 9-section format:
 
 | # | Section | What it captures |
 |---|---------|-----------------|
-| 1 | Visual Theme & Atmosphere | Mood, density, design philosophy |
-| 2 | Color Palette & Roles | Semantic name + hex + functional role |
-| 3 | Typography Rules | Font families, full hierarchy table |
-| 4 | Component Stylings | Buttons, cards, inputs, navigation with states |
-| 5 | Layout Principles | Spacing scale, grid, whitespace philosophy |
-| 6 | Depth & Elevation | Shadow system, surface hierarchy |
-| 7 | Do's and Don'ts | Design guardrails and anti-patterns |
-| 8 | Responsive Behavior | Breakpoints, touch targets, collapsing strategy |
-| 9 | Agent Prompt Guide | Quick color reference, ready-to-use prompts |
+| 1 | Visual Theme & Atmosphere | Mood, density, overall design philosophy |
+| 2 | Color Palette & Roles | Semantic tokens, hex values, functional color roles |
+| 3 | Typography Rules | Font stacks, type scale, hierarchy guidance |
+| 4 | Component Stylings | Buttons, cards, inputs, navigation, and component behavior |
+| 5 | Layout Principles | Spacing scale, grid logic, whitespace philosophy |
+| 6 | Depth & Elevation | Shadow language, layering, surface hierarchy |
+| 7 | Do's and Don'ts | Guardrails, anti-patterns, and style constraints |
+| 8 | Responsive Behavior | Breakpoints, touch targets, mobile adaptation |
+| 9 | Agent Prompt Guide | Ready-to-use prompt snippets and condensed style summary |
 
 ---
 
-## How to Use
+## How to Use These Files
 
-1. Copy a site's `DESIGN.md` into your project root
-2. Tell your AI agent to use it
-3. Get pixel-perfect UI that matches the design system
+1. Pick a company from [`design-md/`](design-md/).
+2. Copy its `DESIGN.md` into your project root.
+3. Tell your AI coding or design agent to use that file when generating UI.
+4. Iterate on the file if you want the style to become more or less faithful.
 
----
+Example prompt:
 
-## Collection
-
-### Social Media (8)
-
-| Company | Description |
-|---------|-------------|
-| [**X (Twitter)**](design-md/x/DESIGN.md) | Microblogging platform. Dark mode dominant, blue accent, minimalist |
-| [**TikTok**](design-md/tiktok/DESIGN.md) | Short video platform. Vibrant cyan/pink gradient, neon accents on dark |
-| [**Reddit**](design-md/reddit/DESIGN.md) | Community forums. Orange-red (#FF4500) accent, card-based layout |
-| [**Discord**](design-md/discord/DESIGN.md) | Community chat platform. Blurple (#5865F2) accent, gaming aesthetic |
-| [**LinkedIn**](design-md/linkedin/DESIGN.md) | Professional network. Corporate blue (#0A66C2), structured layouts |
-| [**Snapchat**](design-md/snapchat/DESIGN.md) | Messaging app. Yellow (#FFFC00) branding, playful UI |
-| [**Threads**](design-md/threads/DESIGN.md) | Text-based social. Clean black/white, Instagram-adjacent design |
-| [**Mastodon**](design-md/mastodon/DESIGN.md) | Decentralized social. Purple (#6364FF) accent, open-source aesthetic |
-
-### E-commerce & Retail (6)
-
-| Company | Description |
-|---------|-------------|
-| [**Amazon**](design-md/amazon/DESIGN.md) | Everything store. Orange (#FF9900) accent, dense product layouts |
-| [**Shopify**](design-md/shopify/DESIGN.md) | E-commerce platform. Green (#008060) accent, Polaris design system |
-| [**Etsy**](design-md/etsy/DESIGN.md) | Handmade marketplace. Orange-coral (#F56400), artisan aesthetic |
-| [**eBay**](design-md/ebay/DESIGN.md) | Auction marketplace. Blue (#3665F3), multicolor logo |
-| [**Target**](design-md/target/DESIGN.md) | Retail chain. Red (#CC0000) bullseye branding, clean shopping UI |
-| [**Walmart**](design-md/walmart/DESIGN.md) | Retail giant. Blue (#0071DC) and yellow (#FFC220), utility-focused |
-
-### Travel & Hospitality (2)
-
-| Company | Description |
-|---------|-------------|
-| [**Airbnb**](design-md/airbnb/DESIGN.md) | Travel marketplace. Warm editorial neutrals, elevated search chrome, rausch coral |
-| [**Booking.com**](design-md/booking/DESIGN.md) | Hotel reservations. Deep blue (#003580), yellow CTAs, trust-focused |
-
-### Food & Delivery (2)
-
-| Company | Description |
-|---------|-------------|
-| [**DoorDash**](design-md/doordash/DESIGN.md) | Food delivery. Red (#FF3008) accent, restaurant-focused |
-| [**Starbucks**](design-md/starbucks/DESIGN.md) | Coffee chain. Green (#00704A) siren, warm inviting UI |
-
-### Gaming (5)
-
-| Company | Description |
-|---------|-------------|
-| [**Steam**](design-md/steam/DESIGN.md) | Gaming platform. Dark blue (#1b2838), cyan accent (#66c0f4) |
-| [**Epic Games**](design-md/epicgames/DESIGN.md) | Game store. Dark theme, blue (#0074e4), cinematic imagery |
-| [**PlayStation**](design-md/playstation/DESIGN.md) | Console gaming. Blue (#003791) accent, premium gaming |
-| [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
-| [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
-
-### Developer Tools & Platforms (11)
-
-| Company | Description |
-|---------|-------------|
-| [**Figma**](design-md/figma/DESIGN.md) | Collaborative design platform. Black-white foundation, vivid product accents, tool-like precision |
-| [**GitHub**](design-md/github/DESIGN.md) | Code hosting. Primer design system, octicon icons, developer-first |
-| [**Linear**](design-md/linear/DESIGN.md) | Product development system. Dark indigo surfaces, dense issue workflows, polished execution UI |
-| [**Notion**](design-md/notion/DESIGN.md) | Workspace platform. Warm editorial neutrals, document-first UI, modular blocks |
-| [**Vercel**](design-md/vercel/DESIGN.md) | Deployment platform. Black-white precision, Geist font |
-| [**Stripe**](design-md/stripe/DESIGN.md) | Financial infrastructure. Electric violet brand, developer-first payments UI |
-| [**Spotify**](design-md/spotify/DESIGN.md) | Streaming platform. Dark-first UI, Spotify green accent, immersive media rails |
-| [**Supabase**](design-md/supabase/DESIGN.md) | Firebase alternative. Emerald green (#3ECF8E), code-first |
-| [**OpenAI**](design-md/openai/DESIGN.md) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
-| [**MetaMask**](design-md/metamask/DESIGN.md) | Crypto wallet. Dark-forward, purple (#9269F3) brand, fox mascot |
-| [**Mailchimp**](design-md/mailchimp/DESIGN.md) | Email marketing. Yellow (#FFE01B) signature, friendly branding |
-
-### AI & Machine Learning (1)
-
-| Company | Description |
-|---------|-------------|
-| [**Anthropic**](design-md/anthropic/DESIGN.md) | AI safety company. Warm terracotta (#DA7756), editorial layout |
+```txt
+Use the DESIGN.md in this repo as the design source of truth.
+Match the color roles, typography, spacing, component styling, and responsive behavior.
+Prefer faithful design-system alignment over generic UI patterns.
+```
 
 ---
 
-## Request a DESIGN.md
+## Best `DESIGN.md` Examples to Start With
 
-[Open a GitHub issue](https://github.com/Khalidabdi1/design-ai/issues/new?template=design-md-request.yml) to request a DESIGN.md generation for a website.
+If you want high-signal examples first, start with:
+
+- [Stripe](design-md/stripe/DESIGN.md) for fintech, developer tooling, and premium data-rich UI
+- [Figma](design-md/figma/DESIGN.md) for crisp product design tooling and modular layouts
+- [Apple](design-md/apple/DESIGN.md) for minimal premium consumer-tech interfaces
+- [Slack](design-md/slack/DESIGN.md) for warm enterprise collaboration UI
+- [Netflix](design-md/netflix/DESIGN.md) for cinematic dark entertainment interfaces
+- [Airbnb](design-md/airbnb/DESIGN.md) for hospitality, editorial travel, and soft premium commerce
+- [Coinbase](design-md/coinbase/DESIGN.md) for clean crypto-finance UI
+- [PayPal](design-md/paypal/DESIGN.md) for mainstream payment and checkout flows
+- [Asana](design-md/asana/DESIGN.md) for polished work-management software
+- [Zoom](design-md/zoom/DESIGN.md) for communication software and AI-workflow UX
+
+---
+
+## Company Library
+
+### Social & Community
+
+- [X](design-md/x/DESIGN.md)
+- [TikTok](design-md/tiktok/DESIGN.md)
+- [Reddit](design-md/reddit/DESIGN.md)
+- [Discord](design-md/discord/DESIGN.md)
+- [LinkedIn](design-md/linkedin/DESIGN.md)
+- [Snapchat](design-md/snapchat/DESIGN.md)
+- [Threads](design-md/threads/DESIGN.md)
+- [Mastodon](design-md/mastodon/DESIGN.md)
+
+### Commerce, Retail & Local Services
+
+- [Amazon](design-md/amazon/DESIGN.md)
+- [Shopify](design-md/shopify/DESIGN.md)
+- [Etsy](design-md/etsy/DESIGN.md)
+- [eBay](design-md/ebay/DESIGN.md)
+- [Target](design-md/target/DESIGN.md)
+- [Walmart](design-md/walmart/DESIGN.md)
+- [DoorDash](design-md/doordash/DESIGN.md)
+- [Starbucks](design-md/starbucks/DESIGN.md)
+- [Uber](design-md/uber/DESIGN.md)
+- [Airbnb](design-md/airbnb/DESIGN.md)
+- [Booking.com](design-md/booking/DESIGN.md)
+
+### Media, Entertainment & Gaming
+
+- [Netflix](design-md/netflix/DESIGN.md)
+- [Spotify](design-md/spotify/DESIGN.md)
+- [Steam](design-md/steam/DESIGN.md)
+- [Epic Games](design-md/epicgames/DESIGN.md)
+- [PlayStation](design-md/playstation/DESIGN.md)
+- [Xbox](design-md/xbox/DESIGN.md)
+- [Twitch](design-md/twitch/DESIGN.md)
+
+### Developer Tools, Productivity & SaaS
+
+- [Figma](design-md/figma/DESIGN.md)
+- [GitHub](design-md/github/DESIGN.md)
+- [Linear](design-md/linear/DESIGN.md)
+- [Notion](design-md/notion/DESIGN.md)
+- [Vercel](design-md/vercel/DESIGN.md)
+- [Slack](design-md/slack/DESIGN.md)
+- [Dropbox](design-md/dropbox/DESIGN.md)
+- [Mailchimp](design-md/mailchimp/DESIGN.md)
+- [Asana](design-md/asana/DESIGN.md)
+- [Zoom](design-md/zoom/DESIGN.md)
+- [Adobe](design-md/adobe/DESIGN.md)
+
+### Finance, Payments & Crypto
+
+- [Stripe](design-md/stripe/DESIGN.md)
+- [PayPal](design-md/paypal/DESIGN.md)
+- [Coinbase](design-md/coinbase/DESIGN.md)
+- [MetaMask](design-md/metamask/DESIGN.md)
+
+### AI & Emerging Tech
+
+- [OpenAI](design-md/openai/DESIGN.md)
+- [Anthropic](design-md/anthropic/DESIGN.md)
+
+### Consumer Technology
+
+- [Apple](design-md/apple/DESIGN.md)
+
+---
+
+## Who This Is For
+
+- developers using AI coding agents to generate frontends
+- designers experimenting with prompt-driven UI generation
+- founders building fast prototypes with a recognizable design language
+- researchers collecting website design system references
+- teams testing `DESIGN.md` as a portable AI design contract
+
+---
+
+## SEO and AI Discoverability Notes
+
+This README is intentionally written to be clear for both humans and machines:
+
+- explicit repository purpose near the top
+- natural-language terms people actually search for
+- company names linked directly to their files
+- repeated references to `DESIGN.md`, `AI coding agents`, `design systems`, and `UI generation`
+- consistent headings that help search engines and LLMs understand the repo structure
+
+The repo also includes [`llms.txt`](llms.txt) so AI systems can parse a short machine-readable summary of the project.
+
+Important note: no README can guarantee that a search engine or AI model will recommend a repository. What we *can* do is make the project easier to understand, index, cite, and retrieve.
+
+---
+
+## Request a New `DESIGN.md`
+
+[Open a GitHub issue](https://github.com/Khalidabdi1/design-ai/issues/new?template=design-md-request.yml) to request a new company or website.
+
+Good requests usually include:
+- the company or website name
+- the homepage URL
+- whether you want marketing, product UI, or both represented
 
 ---
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full contribution guidelines.
 
-- **Improve existing files**: Fix wrong colors, missing tokens, weak descriptions
-- **Add new companies**: Follow the 9-section format
-- **Report issues**: Let us know if something looks off
+Typical contributions:
+- improve weak or outdated color tokens
+- expand typography and component details
+- add new companies using the 9-section format
+- fix inaccuracies from public-site extraction
 
 ---
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+MIT License. See [LICENSE](LICENSE).
 
-This repository is a curated collection of design system documents extracted from public websites. All DESIGN.md files are provided "as is" without warranty. The extracted design tokens represent publicly visible CSS values. We do not claim ownership of any site's visual identity. These documents exist to help AI agents generate consistent UI.
+This repository is a curated collection of design system documents derived from public websites. The `DESIGN.md` files describe publicly visible UI patterns, design tokens, and interaction styles. We do not claim ownership of any company's brand identity.
