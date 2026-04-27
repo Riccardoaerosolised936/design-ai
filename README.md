@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-108-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-110-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -239,6 +239,7 @@ If you want high-signal examples first, start with:
 
 ### Consumer Technology
 
+- [AMD](design-md/amd/DESIGN.md)
 - [Apple](design-md/apple/DESIGN.md)
 - [Dell](design-md/dell/DESIGN.md)
 - [Google](design-md/google/DESIGN.md)
@@ -247,6 +248,7 @@ If you want high-signal examples first, start with:
 - [LG](design-md/lg/DESIGN.md)
 - [Lenovo](design-md/lenovo/DESIGN.md)
 - [NVIDIA](design-md/nvidia/DESIGN.md)
+- [Qualcomm](design-md/qualcomm/DESIGN.md)
 - [Samsung](design-md/samsung/DESIGN.md)
 - [Sony](design-md/sony/DESIGN.md)
 
